@@ -2,6 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03/homeworks12_19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SourceIT/02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SourceIT/03/homeworks12_19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homeworks12_19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw/homeworks12_19" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js_learn/frontend12_19" vcs="Git" />
   </component>
 </project>
